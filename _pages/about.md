@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Phd Candidate at New Jersey Institute of Technology
 
@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,11 +22,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. candidate in Mechanical and Industrial Engineering at the New Jersey Institute of Technology (NJIT), where I am a member of the GRaDS Lab advised by Prof. [Adeel Akhtar](https://adeelakhtar.com/).
+I am a Ph.D. candidate in Mechanical and Industrial Engineering at the New Jersey Institute of Technology (NJIT), where I am a member of the Geometry Robotics and Dynamical Systems lab (GRaDS) Lab advised by Prof. [Adeel Akhtar](https://adeelakhtar.com/).
 
 My research focuses on nonlinear control, optimization-based control, and safety-critical autonomous systems. I am particularly interested in feedback linearization, control barrier functions, trajectory tracking, path following, and decentralized coordination of robotic systems.
 
